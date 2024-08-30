@@ -8,7 +8,7 @@ public class Program {
 
 	public static void main(String[] args) {
 		// trabalhandoComFileBufferedReader
-		String path = "c:\\temp\\in.txt"; // O '\' chama comandos especiais
+		String path = "c:\\temp\\ina.txt"; // O '\' chama comandos especiais
 		FileReader fr = null;
 		BufferedReader br = null;
 
